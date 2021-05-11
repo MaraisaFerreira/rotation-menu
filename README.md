@@ -1,5 +1,5 @@
 <div align='center'>
-<h1 style='color: blue'>Menu - Animação</h1>
+<img src='./logo.png'>
 <hr>
 
 <img src='./screenshot.gif'>
